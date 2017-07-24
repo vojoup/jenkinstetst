@@ -13,6 +13,9 @@ pipeline {
     	success{
     		echo 'SUCCESS!!!!!!JEJEJEJEJEJEJEJEJEEEEJ'
     	}
+    	always{
+    		echo 'BUILDING...'
+    	}
     
     }
     
