@@ -9,4 +9,11 @@ pipeline {
             }
         }
     }
+    post{
+    	success{
+    		echo 'SUCCESS!!!!!!JEJEJEJEJEJEJEJEJEEEEJ'
+    	}
+    
+    }
+    
 }
